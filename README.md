@@ -16,14 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi <img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 40px>, I'm Udara Dhanushka</h1>
-<h3 align="center">Passionate Developer | Tech Explorer</h3>
+<h3 align="center">BSc IT Undergraduate | Passionate about Data Science, Analytics & Machine Learning | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UDhanushka&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="UDhanushka" style="padding-right:20px;" />
 </p>
-
-<h3 align="center">BSc IT Undergraduate | Passionate about Data Science, Analytics & Machine Learning</h3>
-  
 
 <p align='center'>
 <img src="https://github.com/user-attachments/assets/a4a1d3ba-750e-4ce1-ae42-a6a5096b08e5" width="400" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
